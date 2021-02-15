@@ -4,7 +4,7 @@
 // alojar en una caché todos los archivos estáticos o de mayor uso para luego ser consumidos cuando el usuario los requiera.
 
 }
-const version = "fc14218";
+const version = "9c1530e";
 const currentCacheName = `fernanluisweb-${version}`;
 const filesToCache = [
     "/",
@@ -28,6 +28,11 @@ const filesToCache = [
     "/category/misc/index.html",
     "/drafts/la-soluci\u00f3n.html",
     "/drafts/pages/portfolio.html",
+    "/extra/icon-192x192-thumbnail.png",
+    "/extra/icon-256x256-thumbnail.png",
+    "/extra/icon-384x384-thumbnail.png",
+    "/extra/icon-512x512-thumbnail.png",
+    "/extra/sw_template.js",
     "/finanzas/",
     "/finanzas/index.html",
     "/images/Pelican-logo-no-oficial-thumbnail.png",
@@ -39,6 +44,7 @@ const filesToCache = [
     "/link/buscardor/index.html",
     "/link/sitio-personal/",
     "/link/sitio-personal/index.html",
+    "/manifest.webmanifest",
     "/portafolio/",
     "/portafolio/index.html",
     "/posts/con-plugins-la-vida-es-mas-sencilla/",
@@ -74,7 +80,8 @@ const filesToCache = [
     "/theme/fonts/fontawesome-webfont.svg",
     "/theme/js/jqcloud.min.js",
     "/theme/js/lazy_loading.js",
-    "/theme/js/scripts_bundled.js"
+    "/theme/js/scripts_bundled.js",
+    "/theme/js/serviceWorker.js"
 ]
 
 self.addEventListener('install', event => {
