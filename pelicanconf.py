@@ -20,6 +20,25 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['sitemap', 'shortener']
+SHORTENER_FILE = "shortener.json"
+SHORTENER_FOLDER = "link"
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'article': 0.75,
+        'indexes': 1,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'weekly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
