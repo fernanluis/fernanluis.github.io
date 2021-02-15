@@ -53,6 +53,35 @@ div.jqcloud span.w1 { color: #000000; }
 }
 
 
+.b-loaded {
+    -webkit-animation: opacity-transform 1s;
+    animation: opacity-transform 1s;
+}
+
+@media only screen{
+    @-webkit-keyframes opacity-transform {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    @keyframes opacity-transform {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+}
+
+
 /* Global */
 
 body {

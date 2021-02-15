@@ -9,8 +9,8 @@ NOTA IMPORTANTE: la referencia siempre es al archivo fuente, NO al html, Pelican
 
 Este sitio ha sido construido con Pelican
 
-![Pelican Logo]({static}/images/Pelican-logo.png){: .b-lazy width=640 data-src=/images/Pelican-logo.png}
+![Pelican Logo]({static}/images/Pelican-logo-thumbnail.png){: .b-lazy width=640 data-src=/images/Pelican-logo.png}
 
-<img class="b-lazy" src="{static}/images/Pelican-logo.png" data-src="/images/Pelican-logo.png" width=600>
+<img class="b-lazy" src="{static}/images/Pelican-logo-thumbnail.png" data-src="/images/Pelican-logo.png" width=600>
 
 ![Pelican Logo Alternativo]({attach}/images/Pelican-logo-no-oficial.png){: .b-lazy width=360 data-src=/images/Pelican-logo-no-oficial.png}
