@@ -146,6 +146,10 @@
       {% include "ga.html" %}
     {% endif %}
 
+    {% if RECORD_SESSION %}
+      {% include "record.html" %}
+    {% endif %}
+
     {% if PIWIK_URL and PIWIK_SITE_ID %}
       {% include "piwik.html" %}
     {% endif %}

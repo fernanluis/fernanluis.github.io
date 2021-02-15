@@ -15,6 +15,7 @@ RELATIVE_URLS = False
 
 GOOGLE_ANALYTICS = "G-VXYBJFPECC"
 DISQUS_SITENAME = "https-fernanluis-github-io"
+RECORD_SESSION = True
 
 # FEED_ALL_ATOM = 'feeds/all.atom.xml'
 # CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
