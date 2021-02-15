@@ -7,6 +7,7 @@ SITEURL = ''
 
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
+THEME = 'MinimalXY'
 
 TIMEZONE = 'America/Argentina/Cordoba'
 
@@ -33,3 +34,50 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# USE_FOLDER_AS_CATEGORY = True
+# DEFAULT_CATEGORY = 'Otros'
+# DISPLAY_CATEGORIES_ON_MENU = True
+
+# DIRECT_TEMPLATES = ['index', 'authors', 'categories', 'tags', 'archives']
+
+AUTHORS_SAVE_AS = 'authors/index.html'
+CATEGORIES_SAVE_AS = 'categories/index.html'
+TAGS_SAVE_AS = 'tags/index.html'
+ARCHIVES_SAVE_AS = 'archives/index.html'
+
+# Para una cantidad de páginas relativamente pequeña
+# se sugiere invertir el patrón de Pelican donde se utiliza posts para Filosofía
+# para los artículos que suelen ser muchos y las páginas anexarlas directamente a la raíz del sitio.
+
+ARTICLE_URL = 'posts/{slug}'
+ARTICLE_SAVE_AS = 'posts/{slug}/index.html'
+
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+AUTHOR_URL = 'author/{slug}/'
+AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+
+
+# convertir las URL en URL sin extensión
+#ARTICLE_URL = '{slug}.html'
+#ARTICLE_SAVE_AS = '{slug}.html'
+# por defecto Pelican antepone pages a todas las páginas mientras que los artículos están en la raíz del sitio.
+#PAGE_URL = 'pages/{slug}.html'
+#PAGE_SAVE_AS = 'pages/{slug}.html'
+
+#AUTHOR_URL = 'author/{slug}.html'
+#AUTHOR_SAVE_AS = 'author/{slug}.html'
+
+#CATEGORY_URL = 'category/{slug}.html'
+#CATEGORY_SAVE_AS = 'category/{slug}.html'
+
+#TAG_URL = 'tag/{slug}.html'
+#TAG_SAVE_AS = 'tag/{slug}.html'
