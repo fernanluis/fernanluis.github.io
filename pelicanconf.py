@@ -21,7 +21,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['sitemap', 'shortener']
+PLUGINS = ["sitemap", "shortener", "pelican-ert", "pelican.plugins.render_math", "bundler"]
+
+ERT_WPM = 200 # velocidad en palabras por minutos
+ERT_FORMAT = '{time}' # formato en el que se va a mostrar
+ERT_INT = True # Tiempo en valor entero
+
 SHORTENER_FILE = "shortener.json"
 SHORTENER_FOLDER = "link"
 
