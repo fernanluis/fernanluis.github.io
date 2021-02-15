@@ -21,7 +21,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ["sitemap", "shortener", "pelican-ert", "pelican.plugins.render_math", "bundler", "blur_thumbnails"]
+PLUGINS = [
+    "sitemap", "shortener", "pelican-ert", "pelican.plugins.render_math",
+    "bundler", "blur_thumbnails", "service_worker"
+    ]
+SERVICE_WORKER_THEMPLATE = "content/extra/sw_template.js"
 
 # explicitar la carpeta dónde generar las miniaturas
 BLUR_PATH = 'content'
