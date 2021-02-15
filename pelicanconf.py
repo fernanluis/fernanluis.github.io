@@ -21,7 +21,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ["sitemap", "shortener", "pelican-ert", "pelican.plugins.render_math", "bundler"]
+PLUGINS = ["sitemap", "shortener", "pelican-ert", "pelican.plugins.render_math", "bundler", "blur_thumbnails"]
+
+# explicitar la carpeta dónde generar las miniaturas
+BLUR_PATH = 'content'
 
 ERT_WPM = 200 # velocidad en palabras por minutos
 ERT_FORMAT = '{time}' # formato en el que se va a mostrar
