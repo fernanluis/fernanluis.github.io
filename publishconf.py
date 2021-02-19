@@ -9,8 +9,6 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-OUTPUT_PATH = 'output/'
-
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://fernanluis.github.io'
 RELATIVE_URLS = False
@@ -19,7 +17,7 @@ GOOGLE_ANALYTICS = "G-VXYBJFPECC"
 DISQUS_SITENAME = "https-fernanluis-github-io"
 
 FEED_DOMAIN = 'http://feeds.feedburner.com' # servicio utilizado para enviar los correos
-FEED_ALL_ATOM = 'fernanluis' # alias
+FEED_ALL_ATOM = 'luisdev' # alias
 FEED_ATOM = 'feeds/all.atom.xml' # esto es sencillamente dónde estará alojado el XML
 
 RECORD_SESSION = True

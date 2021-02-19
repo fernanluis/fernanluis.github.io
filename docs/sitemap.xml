@@ -4,140 +4,140 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2021-02-18T23:07:08-00:00</lastmod>
+<loc>https://fernanluis.github.io/</loc>
+<lastmod>2021-02-19T19:38:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2021-02-18T23:07:08-00:00</lastmod>
+<loc>https://fernanluis.github.io/tags.html</loc>
+<lastmod>2021-02-19T19:38:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2021-02-18T23:07:08-00:00</lastmod>
+<loc>https://fernanluis.github.io/categories.html</loc>
+<lastmod>2021-02-19T19:38:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2021-02-18T23:07:08-00:00</lastmod>
+<loc>https://fernanluis.github.io/authors.html</loc>
+<lastmod>2021-02-19T19:38:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2021-02-18T23:07:08-00:00</lastmod>
+<loc>https://fernanluis.github.io/archives.html</loc>
+<lastmod>2021-02-19T19:38:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/portafolio</loc>
+<loc>https://fernanluis.github.io/portafolio</loc>
 <lastmod>2021-02-14T00:00:00-03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/sobre-mi/</loc>
-<lastmod>2021-02-18T23:07:08-00:00</lastmod>
+<loc>https://fernanluis.github.io/sobre-mi/</loc>
+<lastmod>2021-02-19T19:38:26-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/posts/plugins</loc>
+<loc>https://fernanluis.github.io/posts/plugins</loc>
 <lastmod>2021-02-15T00:00:00-03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/posts/mira-mas-alla</loc>
+<loc>https://fernanluis.github.io/posts/mira-mas-alla</loc>
 <lastmod>2021-02-14T00:00:00-03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/posts/mi-primer-articulo</loc>
+<loc>https://fernanluis.github.io/posts/mi-primer-articulo</loc>
 <lastmod>2021-02-13T00:00:00-03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/posts/titulo-del-articulo</loc>
+<loc>https://fernanluis.github.io/posts/titulo-del-articulo</loc>
 <lastmod>2021-02-13T00:00:00-03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/curso/</loc>
+<loc>https://fernanluis.github.io/category/curso/</loc>
 <lastmod>2021-02-13T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/category/filosofia/</loc>
+<loc>https://fernanluis.github.io/category/filosofia/</loc>
 <lastmod>2021-02-14T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/category/misc/</loc>
+<loc>https://fernanluis.github.io/category/misc/</loc>
 <lastmod>2021-02-15T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tag/frases/</loc>
+<loc>https://fernanluis.github.io/tag/frases/</loc>
 <lastmod>2021-02-14T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/tag/reflexion/</loc>
+<loc>https://fernanluis.github.io/tag/reflexion/</loc>
 <lastmod>2021-02-14T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/author/anonimo/</loc>
+<loc>https://fernanluis.github.io/author/anonimo/</loc>
 <lastmod>2021-02-14T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/author/fernando-ramos/</loc>
+<loc>https://fernanluis.github.io/author/fernando-ramos/</loc>
 <lastmod>2021-02-15T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/author/luis-ramos/</loc>
+<loc>https://fernanluis.github.io/author/luis-ramos/</loc>
 <lastmod>2021-02-14T00:00:00-04:17</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/plugins-en.html</loc>
+<loc>https://fernanluis.github.io/plugins-en.html</loc>
 <lastmod>2021-02-18T00:00:00-03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
