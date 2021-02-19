@@ -4,7 +4,7 @@
 // alojar en una caché todos los archivos estáticos o de mayor uso para luego ser consumidos cuando el usuario los requiera.
 
 }
-const version = "780780d";
+const version = "0242c0d";
 const currentCacheName = `fernanluisweb-${version}`;
 const filesToCache = [
     "/",
