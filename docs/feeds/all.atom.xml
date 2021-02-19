@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mi primer sitio</title><link href="https://fernanluis.github.io/" rel="alternate"></link><link href="http://feeds.feedburner.com/feeds/all.atom.xml" rel="self"></link><id>https://fernanluis.github.io/</id><updated>2021-02-15T00:00:00-03:00</updated><entry><title>Con plugins la vida es más sencilla</title><link href="https://fernanluis.github.io/posts/con-plugins-la-vida-es-mas-sencilla" rel="alternate"></link><published>2021-02-15T00:00:00-03:00</published><updated>2021-02-15T00:00:00-03:00</updated><author><name>Fernando Ramos</name></author><id>tag:fernanluis.github.io,2021-02-15:/posts/con-plugins-la-vida-es-mas-sencilla</id><summary type="html">&lt;p&gt;Recuerdas esta formula de la escuela?&lt;/p&gt;</summary><content type="html">&lt;p&gt;Recuerdas esta formula de la escuela?&lt;/p&gt;
+&lt;div class="math"&gt;$$ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} $$&lt;/div&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="misc"></category></entry><entry><title>Mira más allá de lo ves</title><link href="https://fernanluis.github.io/posts/mira-mas-alla" rel="alternate"></link><published>2021-02-14T00:00:00-03:00</published><updated>2021-02-14T00:00:00-03:00</updated><author><name>Luis Ramos</name></author><id>tag:fernanluis.github.io,2021-02-14:/posts/mira-mas-alla</id><content type="html"></content><category term="Filosofía"></category><category term="frases"></category><category term="reflexión"></category></entry><entry><title>Mi primer artículo</title><link href="https://fernanluis.github.io/posts/mi-primer-articulo" rel="alternate"></link><published>2021-02-13T00:00:00-03:00</published><updated>2021-02-13T00:00:00-03:00</updated><author><name>Fernando Ramos</name></author><id>tag:fernanluis.github.io,2021-02-13:/posts/mi-primer-articulo</id><content type="html">&lt;p&gt;Este es mi primer artículo.&lt;/p&gt;</content><category term="Curso"></category></entry><entry><title>Título del artículo</title><link href="https://fernanluis.github.io/posts/titulo-del-articulo" rel="alternate"></link><published>2021-02-13T00:00:00-03:00</published><updated>2021-02-13T00:00:00-03:00</updated><author><name>Fernando Ramos</name></author><id>tag:fernanluis.github.io,2021-02-13:/posts/titulo-del-articulo</id><summary type="html">&lt;h1&gt;Título de primer nivel&lt;/h1&gt;
+&lt;h2&gt;Título de segundo nivel&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Citas que escriben el título en cursiva o itálica y con una sangría o indentación como se puede observar.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Aquí se escriben fragmentos de código. Existen muchas formas de escribir fragmentos de códigos en Markdown.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;&amp;gt; El título en sí incorpora espaciado …&lt;/h2&gt;</summary><content type="html">&lt;h1&gt;Título de primer nivel&lt;/h1&gt;
+&lt;h2&gt;Título de segundo nivel&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Citas que escriben el título en cursiva o itálica y con una sangría o indentación como se puede observar.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Aquí se escriben fragmentos de código. Existen muchas formas de escribir fragmentos de códigos en Markdown.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;&amp;gt; El título en sí incorpora espaciado que tiene que ver con la pantilla pero si desea separar manualmente el contenidopuede utilizar 3 (tres guiones medios ---)&lt;/h2&gt;
+&lt;h2&gt;Tablas&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Mario&lt;/th&gt;
+&lt;th&gt;Anabel&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Markdown Desde Cero&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Python Desde Cero&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Git Desde Cero&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HTML Desde Cero&lt;/td&gt;
+&lt;td&gt;❌&lt;/td&gt;
+&lt;td&gt;✔️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- Tabla generada con https://www.tablesgenerator.com/markdown_tables --&gt;
+&lt;!-- Pelican tiene soporte en el mismo artículo para Markdown y HTML --&gt;
+
+&lt;h2&gt;Cursos más vistos&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Listas o item. Listas enumeradas y no enumeradas. Markdown genera automáticamente la numeración con varios niveles de anidación.&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://ed.team/cursos/ingles-avanzado"&gt;Gramática avanzada del inglés&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ed.team/cursos/ingles-gramatica"&gt;Gramática del inglés&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ed.team/cursos/ingles"&gt;Inglés desde cero&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ed.team/cursos/javascript"&gt;JavaScript desde cero (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ed.team/cursos/css-avanzado"&gt;CSS Avanzado&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Cursos que me gustaría hacer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Para el caso de no necesitas números, con listar unicamente los elementos es suficiente y se pueden utilizar asteriscos o guiones medios.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://ed.team/cursos/google-analytics"&gt;Google Analytics Desde Cero&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ed.team/cursos/arduino"&gt;Arduino desde cero&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; 'La negrita se hace con 2 (dos) asteriscos al inicio y 2 (dos) asteriscos al final'. No te olvides de visitar &lt;a href="https://ed.team"&gt;EDTeam&lt;/a&gt;&lt;/strong&gt; utilizando el atajo o un alias para el enlace.**&lt;/p&gt;
+&lt;p&gt;Para más cursos, &lt;strong&gt;no te olvides de visitar &lt;a href="https://ed.team"&gt;EDTeam&lt;/a&gt;. &lt;/strong&gt;&lt;sup id="fnref:Nota"&gt;&lt;a class="footnote-ref" href="#fn:Nota"&gt;1&lt;/a&gt;&lt;/sup&gt;. EDteam es &lt;em&gt;el sitio - 'cursiva o itálica encerrados con un solo artesico'&lt;/em&gt; para tomar cursos en español sobre tecnología, diseño y negocios! Identifícalo fácilmente por su logo y su slogan:&lt;/p&gt;
+&lt;h2&gt;A continuación verá 3 (tres) formas de agregar una imagen.&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Antiguo logo de Edteam" src="https://api.ed.team/public-files/bloginlineimg/5b557c57-8969-45ca-b880-a05441ca353b.png"&gt;
+&lt;img src="https://api.ed.team/public-files/bloginlineimg/3e0b6ee8-dfcc-45ce-97d1-f921964f34c6.png" width=200&gt;&lt;/p&gt;
+&lt;p&gt;Puedes ver un ejemplo en este video:&lt;/p&gt;
+&lt;iframe width="460" height="315" src="https://www.youtube.com/embed/AYbgqmyg7dk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div class="footnote"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:Nota"&gt;
+&lt;p&gt;Ten en cuenta que en EDteam todos los cursos tienen la primer clase Gratis!&amp;#160;&lt;a class="footnote-backref" href="#fnref:Nota" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content><category term="misc"></category></entry></feed>

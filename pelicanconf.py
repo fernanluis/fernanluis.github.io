@@ -27,7 +27,7 @@ PLUGINS = [
     ]
 SERVICE_WORKER_THEMPLATE = "content/extra/sw_template.js"
 
-STATIC_PATHS = ["extra"]
+STATIC_PATHS = ["images", "extra"]
 EXTRA_PATH_METADATA = {
     'extra/icon-192x192.png': {'path': 'icon-192x192.png'},
     'extra/icon-256x256.png': {'path': 'icon-256x256.png'},

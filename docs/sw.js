@@ -4,7 +4,7 @@
 // alojar en una caché todos los archivos estáticos o de mayor uso para luego ser consumidos cuando el usuario los requiera.
 
 }
-const version = "9c1530e";
+const version = "780780d";
 const currentCacheName = `fernanluisweb-${version}`;
 const filesToCache = [
     "/",
@@ -33,6 +33,7 @@ const filesToCache = [
     "/extra/icon-384x384-thumbnail.png",
     "/extra/icon-512x512-thumbnail.png",
     "/extra/sw_template.js",
+    "/feeds/all.atom.xml",
     "/finanzas/",
     "/finanzas/index.html",
     "/images/Pelican-logo-no-oficial-thumbnail.png",
@@ -40,8 +41,6 @@ const filesToCache = [
     "/index.html",
     "/link/buscador/",
     "/link/buscador/index.html",
-    "/link/buscardor/",
-    "/link/buscardor/index.html",
     "/link/sitio-personal/",
     "/link/sitio-personal/index.html",
     "/manifest.webmanifest",
@@ -70,13 +69,7 @@ const filesToCache = [
     "/theme/css/04_font-awesome.min.css",
     "/theme/css/05_gruvbox.css",
     "/theme/css/06_lazy_load.css",
-    "/theme/css/font-awesome.min.css",
-    "/theme/css/gruvbox.css",
-    "/theme/css/jqcloud.css",
-    "/theme/css/pygments-highlight-github.css",
-    "/theme/css/style.css",
     "/theme/css/style_bundled.css",
-    "/theme/css/w3.css",
     "/theme/fonts/fontawesome-webfont.svg",
     "/theme/js/jqcloud.min.js",
     "/theme/js/lazy_loading.js",
