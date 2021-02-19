@@ -22,6 +22,7 @@ SETTINGS.update(LOCAL_SETTINGS)
 CONFIG = {
     'settings_base': SETTINGS_FILE_BASE,
     'settings_publish': 'publishconf.py',
+    'settings_seo': 'seoconf.py',
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     'deploy_path': SETTINGS['OUTPUT_PATH'],
     # Host and port for `serve`
@@ -94,6 +95,11 @@ def reserve(c):
     """`build`, then `serve`"""
     build(c)
     serve(c)
+
+@task
+def seo(c):
+    """Build the seo report for the site"""
+    pelican_run('-s {settings_seo}'.format(**CONFIG))
 
 @task
 def preview(c):
