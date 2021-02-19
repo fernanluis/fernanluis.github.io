@@ -34,6 +34,7 @@ EXTRA_PATH_METADATA = {
     'extra/icon-384x384.png': {'path': 'icon-384x384.png'},
     'extra/icon-512x512.png': {'path': 'icon-512x512.png'},
     'extra/manifest.webmanifest': {'path': 'manifest.webmanifest'},
+    'extra/localization.ini':{'path':'localization.ini'},
 }
 
 # explicitar la carpeta dónde generar las miniaturas

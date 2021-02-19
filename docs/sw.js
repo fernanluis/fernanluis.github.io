@@ -4,7 +4,7 @@
 // alojar en una caché todos los archivos estáticos o de mayor uso para luego ser consumidos cuando el usuario los requiera.
 
 }
-const version = "60a6bbd";
+const version = "5c78af0";
 const currentCacheName = `fernanluisweb-${version}`;
 const filesToCache = [
     "/",
@@ -43,6 +43,7 @@ const filesToCache = [
     "/link/buscador/index.html",
     "/link/sitio-personal/",
     "/link/sitio-personal/index.html",
+    "/localization.ini",
     "/manifest.webmanifest",
     "/plugins-en.html",
     "/portafolio/",
@@ -75,6 +76,7 @@ const filesToCache = [
     "/theme/css/style_bundled.css",
     "/theme/fonts/fontawesome-webfont.svg",
     "/theme/js/jqcloud.min.js",
+    "/theme/js/l10n.js",
     "/theme/js/lazy_loading.js",
     "/theme/js/scripts_bundled.js",
     "/theme/js/serviceWorker.js"
