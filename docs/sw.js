@@ -4,7 +4,7 @@
 // alojar en una caché todos los archivos estáticos o de mayor uso para luego ser consumidos cuando el usuario los requiera.
 
 }
-const version = "2a18e1e";
+const version = "60a6bbd";
 const currentCacheName = `fernanluisweb-${version}`;
 const filesToCache = [
     "/",
@@ -44,6 +44,7 @@ const filesToCache = [
     "/link/sitio-personal/",
     "/link/sitio-personal/index.html",
     "/manifest.webmanifest",
+    "/plugins-en.html",
     "/portafolio/",
     "/portafolio/index.html",
     "/posts/con-plugins-la-vida-es-mas-sencilla/",
@@ -52,6 +53,8 @@ const filesToCache = [
     "/posts/mi-primer-articulo/index.html",
     "/posts/mira-mas-alla/",
     "/posts/mira-mas-alla/index.html",
+    "/posts/plugins/",
+    "/posts/plugins/index.html",
     "/posts/titulo-del-articulo/",
     "/posts/titulo-del-articulo/index.html",
     "/sitemap.xml",
