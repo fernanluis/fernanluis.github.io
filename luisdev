@@ -72,7 +72,7 @@
     (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</content><category term="misc"></category></entry><entry><title>Con plugins la vida es más sencilla</title><link href="https://fernanluis.github.io/posts/plugins" rel="alternate"></link><published>2021-02-15T00:00:00-03:00</published><updated>2021-02-15T00:00:00-03:00</updated><author><name>Fernando Ramos</name></author><id>tag:fernanluis.github.io,2021-02-15:/posts/plugins</id><summary type="html">&lt;p&gt;Para todos aquellos que hayan pasado por la escuela seguro que no se olvidarán nunca de...&lt;/p&gt;</summary><content type="html">&lt;p&gt;lang: es&lt;/p&gt;
+&lt;/script&gt;</content><category term="misc"></category></entry><entry><title>Con plugins la vida es más sencilla, o no?</title><link href="https://fernanluis.github.io/posts/plugins" rel="alternate"></link><published>2021-02-15T00:00:00-03:00</published><updated>2021-02-15T00:00:00-03:00</updated><author><name>Fernando Ramos</name></author><id>tag:fernanluis.github.io,2021-02-15:/posts/plugins</id><summary type="html">&lt;p&gt;Para todos aquellos que hayan pasado por la escuela seguro que no se olvidarán nunca de...&lt;/p&gt;</summary><content type="html">&lt;p&gt;lang: es&lt;/p&gt;
 &lt;p&gt;Para todos aquellos que hayan pasado por la escuela seguro que no se olvidarán nunca de...&lt;/p&gt;
 &lt;p&gt;O tal vez si?&lt;/p&gt;
 &lt;p&gt;Esta hermosa fórmula!&lt;/p&gt;
