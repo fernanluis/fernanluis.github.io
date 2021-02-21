@@ -6,7 +6,7 @@ template: portfolio
 
 # Redes Sociales
 
-* [LinkedIn:](www.linkedin.com/in/fernanluisdev)
+* [LinkedIn:](https://www.linkedin.com/in/fernanluisdev/)
 
 * [GitHub:](https://github.com/fernanluis)
 
@@ -98,11 +98,11 @@ Creación de contenidos para redes, notas, capítulos y tarjetas y acceso a curs
 * Creación de API's utilizando Rspec, Database Cleaner, Faker, Shoulda- Matchers, FactoryBot.
 * Endpoints
 * [Red Social con Ruby on Rails](https://murmuring-crag-83663.herokuapp.com/)
-* [Blog con Ruby on Rails]https://frozen-mountain-25282.herokuapp.com/
+* [Blog con Ruby on Rails](https://frozen-mountain-25282.herokuapp.com/)
 
-## 2018
-## HTML, CSS, Javascript
-## Tutoriales de MDN web docs
+### 2018
+### HTML, CSS, Javascript
+### Tutoriales de MDN web docs
 
 
 ## Octubre 2011 - Actualidad
@@ -114,11 +114,11 @@ Creación de contenidos para redes, notas, capítulos y tarjetas y acceso a curs
 * PMO (Plan Médico Obligatorio)
  
  
-## *Idiomas*
+# *Idiomas*
 
 * Inglés: Limited Working Proficiency
  
-### *Herramientas Técnicas*
+# *Herramientas Técnicas*
 
 * Testing Manual - (ALM - SpiraTeam)
 * Testing Automático (Rapise - RVL)
